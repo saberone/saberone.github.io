@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Darkh Saber's blog]]></title>
+  <subtitle><![CDATA[Stories from the Darkh Side of the web]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://blog.saberkarmous.nl/"/>
+  <updated>2015-12-29T22:16:32.000Z</updated>
+  <id>http://blog.saberkarmous.nl/</id>
+  
+  <author>
+    <name><![CDATA[Saber Karmous]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Let's Start the Show]]></title>
+    <link href="http://blog.saberkarmous.nl/2015/12/29/Let-s-start-the-show/"/>
+    <id>http://blog.saberkarmous.nl/2015/12/29/Let-s-start-the-show/</id>
+    <published>2015-12-29T21:43:18.000Z</published>
+    <updated>2015-12-29T22:16:32.000Z</updated>
+    <content type="html"><![CDATA[<p>I finally got enough I had some kind of “blogengine/design paralysis”, couldn’t decide which engine, framework and design to use, and most importantly on what topics I should focus. Enough is enough, I’m just going to start, and we’ll see what happens. The most important thing is that it should feel organic, which I believe should produce the most interesting content.</p>
+<p>This first blog post is basically just a test to see whether everything is in place. So nothing special in here, yet.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>I finally got enough I had some kind of “blogengine/design paralysis”, couldn’t decide which engine, framework and design to use, and mos]]>
+    </summary>
+    
+      <category term="random" scheme="http://blog.saberkarmous.nl/tags/random/"/>
+    
+      <category term="blog" scheme="http://blog.saberkarmous.nl/categories/blog/"/>
+    
+  </entry>
+  
+</feed>
